@@ -680,7 +680,7 @@
       <a name="font" val="SansSerif plain 20"/>
       <a name="text" val="Fetch"/>
     </comp>
-    <comp lib="7" loc="(980,720)" name="Text">
+    <comp lib="7" loc="(959,728)" name="Text">
       <a name="font" val="SansSerif plain 12"/>
       <a name="text" val="OUTPUTS"/>
     </comp>
