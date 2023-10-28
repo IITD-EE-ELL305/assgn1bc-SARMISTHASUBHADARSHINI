@@ -78,9 +78,9 @@ This will make the later part of this assignment easier for you.
   - [ ] Check data memory for the correct result, and also verify that the PC behaves correctly through the call and return instructions
   - [ ] **Commit and push to Github with message "call and ret instructions"**
 3. Add support for _nop_ and _halt_ instructions
-- [ ] Do you need any hardware modification?
+- [ ] Do you need any hardware modification?   ANS --- for nop we needn't change the circuit.
 - [ ] Modify the control signals appropriately for _nop_
-- [ ] With the _halt_ instruction, the _PC_ stops incrementing. Do you need hardware modification?
+- [ ] With the _halt_ instruction, the _PC_ stops incrementing. Do you need hardware modification?  ANS-- for halt we have to modify the Fetch part box.
 - [ ] Add appropriate control signals
 - [ ] **Commit and push to Github with message "halt and nop instruction"**
 - [ ] Write a small test program for all your instructions:
